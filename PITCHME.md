@@ -20,6 +20,9 @@ They're currently hiring for a:
 - Delivery Lead |
 - Senior Designer |
 - JavaScript Application Developer |
+
+---
+
 - Quality Engineer |
 - Java Developer (onsite) |
 - Android Developer (onsite) |
@@ -55,16 +58,12 @@ Wednesday Nov 15, [Bevera.JS](https://www.meetup.com/Detroit-Javascript/events/2
 
 ---
 
-# Upcoming meetups that might seem cool to you
+### Other fun meetups
 
 - Thursday Nov 9, World Usability Day at Grand Circus from [Refresh Detroit](https://www.meetup.com/refreshdetroit/events/243123484/) |
-
 - Monday Nov 13, Exploring Vue.js at Barracuda Networks (Ann Arbor) from [SEM.JS](https://www.meetup.com/SEM-JS/events/244195373/) |
-
 - Tuesday Nov 14, Let's code together — Intro to functional programming from [Rochester Full Stack](https://www.meetup.com/Rochester-Full-Stack-Meetup/events/242021325/) |
-
 - Tuesday Nov 21, Hackernest Detroit November Tech Social from [Hackernest](https://www.meetup.com/HackerNestDTW/events/235967805/) |
-
 - Monday, December 4, STUDY GROUP from [SEM.JS](https://www.meetup.com/SEM-JS/events/243449523/) |
 
 ---
