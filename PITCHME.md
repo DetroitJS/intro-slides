@@ -84,3 +84,10 @@ Wednesday Nov 15, [Bevera.JS](https://www.meetup.com/Detroit-Javascript/events/2
 <p style="font-size:30px">DetroitJS is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of DetroitJS participants in any form. Sexual language and imagery is not appropriate for any DetroitJS venue, including talks, workshops, parties, Twitter and other online media. DetroitJS participants violating these rules may be sanctioned or expelled from the DetroitJS without a refund at the discretion of the DetroitJS organizers.</p>
 
 [Full version](https://detroitjs.com/code-of-conduct)
+
+---
+ 
+ http://www.fivemindev.com and use the following codes for $5 off each course!
+
+JS Promises: `detroitjspromise`
+Async/Await: `detroitjsasync`
