@@ -52,32 +52,47 @@ talks@detroitjs.com
 
 # Our next meetup 
 
-Wednesday Nov 15, [Bevera.JS](https://www.meetup.com/Detroit-Javascript/events/242717510/) Social Meetup @ the Keep
-
-![keep](http://www.ecurrent.com/wp-content/uploads/2017/06/the-keep-detroit.jpg)
+???
 
 ---
 
-### Other fun meetups
+### Other fun events
 
-- Thursday Nov 9, World Usability Day at Grand Circus from [Refresh Detroit](https://www.meetup.com/refreshdetroit/events/243123484/) 
+- Saturday, February 3, 2018 **Global Diversity CFP Day**
+
+On Saturday 3rd February 2018 there will be numerous workshops hosted around the globe encouraging and advising newbie speakers to put together your very first talk proposal and share your own individual perspective on any subject of interest to people in tech.
+Each workshop will have experienced speakers on hand to:
+
+give you a warm, inclusive welcome in a safe space (check out our Code of Conduct which all participants must adhere to)
+mentor you with your proposal
+provide speaking advice
+and share their enthusiasm to get you to the stage!
+
+[Reserve ticket here](https://www.globaldiversitycfpday.com/events/30)
+
+---
+
+- Wednesday, February 7, 2018 **Detroit React Developers Meetup**
+
+[Getting Started with React Native!](https://www.meetup.com/Detroit-React-Developers-Meetup/events/246631187/)
 
 ---
 
-- Monday Nov 13, Exploring Vue.js at Barracuda Networks (Ann Arbor) from [SEM.JS](https://www.meetup.com/SEM-JS/events/244195373/) 
+- Saturday, February 10, 2018 **TechLife Ann Arbor**
+
+[Code Craftsman Saturdays - Is TDD ALWAYS the way to go?](https://www.meetup.com/TechLife-Ann-Arbor/events/246757456/)
 
 ---
 
-- Tuesday Nov 14, Let's code together — Intro to functional programming from [Rochester Full Stack](https://www.meetup.com/Rochester-Full-Stack-Meetup/events/242021325/) 
+- Saturday, February 10, 2018 **TechLife Ann Arbor**
+
+[Code Craftsman Saturdays - Is TDD ALWAYS the way to go?](https://www.meetup.com/TechLife-Ann-Arbor/events/246757456/)
 
 ---
 
-- Tuesday Nov 21, Hackernest Detroit November Tech Social from [Hackernest](https://www.meetup.com/HackerNestDTW/events/235967805/) 
---- 
+- Monday, February 12, 2018 **SE Michigan JavaScript
 
-- Monday, December 4, STUDY GROUP from [SEM.JS](https://www.meetup.com/SEM-JS/events/243449523/) 
-
----
+[Polymer and Firebase with Eric Stevens](https://www.meetup.com/SEM-JS/events/247084944/)
 
 ### Code of Conduct
 
@@ -87,7 +102,3 @@ Wednesday Nov 15, [Bevera.JS](https://www.meetup.com/Detroit-Javascript/events/2
 
 ---
  
- http://www.fivemindev.com and use the following codes for $5 off each course!
-
-JS Promises: `detroitjspromise`
-Async/Await: `detroitjsasync`
