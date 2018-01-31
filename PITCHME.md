@@ -7,7 +7,7 @@
 - Steve Barman steve@stevebarman.com
 - TJ Miller tj@tjmiller.co
 
---- 
+---
 
 # Sponsor
 
@@ -94,9 +94,11 @@ and share their enthusiasm to get you to the stage!
 
 ---
 
-- Saturday, February 10, 2018 **TechLife Ann Arbor**
+- Saturday, February 10-11, 2018 **Fish Hackathon**
 
-[Code Craftsman Saturdays - Is TDD ALWAYS the way to go?](https://www.meetup.com/TechLife-Ann-Arbor/events/246757456/)
+Bringing the world together to protect life in our waters, make fisheries and aquaculture more sustainable and equitable, and preserve our planet’s future.
+
+[Detroit Fishackathon](https://hackernest.com/events/detroit-usa-fishackathon-2018)
 
 ---
 
