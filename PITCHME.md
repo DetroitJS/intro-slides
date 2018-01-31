@@ -15,21 +15,27 @@ Detroit Labs has graciously provided the food, drink, and meeting space.
 
 They're currently hiring for a:
 
-- Web Service Developer |
-- Mobile Application Developer |
-- Delivery Lead |
-- Senior Designer |
 - JavaScript Application Developer |
+- Quality Engineer |
+- Mobile Application Developer|
+- Delivery Lead |
+- Web Services Developer |
 
 ---
 
-- Quality Engineer |
+- JavaScript Developer (onsite) |
 - Java Developer (onsite) |
 - Android Developer (onsite) |
 - iOS Developer (onsite) |
-- JavaScript Developer (onsite) |
 
 note: go to detroitlabs.com for full details
+
+---
+
+Here's Jackie to tell you more about it. 
+
+jackie.mclaughlin@detroitlabs.com
+
 ---
 
 # Contact us
