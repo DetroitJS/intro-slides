@@ -29,7 +29,7 @@ They're currently hiring for a:
 - Android Developer (onsite) |
 - iOS Developer (onsite) |
 
-note: go to detroitlabs.com for full details
+go to detroitlabs.com for full details
 
 ---
 
