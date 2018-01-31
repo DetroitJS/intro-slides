@@ -1,3 +1,8 @@
 .reveal .slide-background{
     background:rgb(241, 218, 78)!important
 }
+
+.reveal .slides{
+    text-align: left;
+    padding-left:10px;
+}
