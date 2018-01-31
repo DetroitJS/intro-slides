@@ -61,9 +61,12 @@ talks@detroitjs.com
 - Saturday, February 3, 2018 **Global Diversity CFP Day**
 
 On Saturday 3rd February 2018 there will be numerous workshops hosted around the globe encouraging and advising newbie speakers to put together your very first talk proposal and share your own individual perspective on any subject of interest to people in tech.
+
+--- 
+
 Each workshop will have experienced speakers on hand to:
 
-give you a warm, inclusive welcome in a safe space (check out our Code of Conduct which all participants must adhere to)
+give you a warm, inclusive welcome in a safe space 
 mentor you with your proposal
 provide speaking advice
 and share their enthusiasm to get you to the stage!
